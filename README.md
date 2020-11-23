@@ -6,4 +6,4 @@ Pull the image from the Docker repository.
 
 ## docker-compose
 
-    docker-compose -f docker-compose-CeleryExecutor.yml up -d
+    docker-compose -f docker-compose.yml up -d
